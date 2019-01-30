@@ -1,3 +1,9 @@
+---
+layout: page
+title: Techniques & Best Practices
+---
+
+
 There are many styles of argument and rhetoric that are not helpful for a group of people whose purpose is to learn the truth. The argument style most familiar in the West, the debate, is designed as a battle to persuade the audience, and is built on tricks and flaws in the audience's mind. 
 
 Our goal at Adversarial Collective isn't to win arguments, it's a process of discovery and open-minded persuasion backed by evidence, without tricks. To that end, we're collecting here techniques designed to take you away from combat and toward discovery. Please use these techniques well - as with all tools, they can be used with pure intent or ill.
