@@ -1,0 +1,68 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Welcome to Jekyll!",
+        "excerpt": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\nTo add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.\n\nJekyll also offers powerful support for code snippets:\n\ndef print_hi(name)\n  puts \"Hi, #{name}\"\nend\nprint_hi('Tom')\n#=&gt; prints 'Hi, Tom' to STDOUT.\n\nCheck out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.\n\n",
+        "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\nTo add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.\n\nJekyll also offers powerful support for code snippets:\n\ndef print_hi(name)\n  puts \"Hi, #{name}\"\nend\nprint_hi('Tom')\n#=&gt; prints 'Hi, Tom' to STDOUT.\n\nCheck out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.\n\n",
+        "url": "/jekyll/update/2018/12/13/welcome-to-jekyll/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Adversary/Contributor Coordinator",
+    "excerpt": "\n",
+    "content": "What\n\nYour mission is to help the Contributors complete their research, discussion, and writing. You should be their first person to ask questions of, and if there’s anything they need that we can help them with, you should help them or connect them with those who can.\n\nHow\n\nThese are sensitive subjects, and contributors are liable to have difficulty working together. We’re looking to match contributors who work well together, and we always need to check in and make sure. Be aware that contributors may have different levels of sensitivity, may communicate differently, and may need someone to arbitrate disputes.\n\nFAQ\n\n\n  What do I do first?\n\n\nWe’ll connect you with your contributors, and their topic. From there, you should make sure someone (you or them) captures a statement of their initial positions, and then you should provide them with any initial research we’ve collected for the topic. Make sure to agree on tools, and get access to whatever interim documents they create, so that we have the full record of the process. In the end, we’re going to want:\n\n  Initial position statements\n  Contributor biographies\n  A full list of research examined\n  (ideally) interpretation statements about each piece of research\n\n\n\n  My contributors are asking about finding, understanding, and interpreting research\n\n\nConnect them with a [[Research Assistant]].\n\n\n  My contributors can’t agree.\n\n\nTalk to them. Work out whether the issue is a disagreement with how pieces of research are being interpreted, or something else. If you still can’t get them to agree, bring it up with us and we’ll help you.\n\n\n  My contributors are done!\n\n\nFirst, make sure that they have agreed on at least one of the major issues at stake. Then, hand them off to an Editor to help them finalize their draft.\n",
+    "url": "/info/Contributor-Coordinator/"
+  },
+  
+  {
+    "title": "Questions to ask Contributors",
+    "excerpt": "\n",
+    "content": "\n  On a scale of 1-6, how successfully can you persuade someone?\n    \n      1 is: I can’t convince someone the sun will rise tomorrow\n      6 is: I can win a debate contest if the question is “Slavery and torture are morally good.”\n    \n  \n  What level of education have you received?\n    \n      (Note, this should only be used to help inform on other questions)\n    \n  \n  Are you educated specifically in this area, either as a major area of study, or a specific degree?\n  How emotionally charged is this topic? Does it affect you personally, or a loved one, or do you have another reason it’s important your partner be sensitive about?\n  How much time do you foresee committing to this project?\n  Along what sort of schedule?\n\n\n(Looking for more)\n",
+    "url": "/info/Contributor-Qualification/"
+  },
+  
+  {
+    "title": "Contributor (aka Adversary)",
+    "excerpt": "\n",
+    "content": "What\n\nYou are someone who:\n\n  Wants to spend some time really deeply understanding a topic\n  Has a strong opinion about it already, formed from the zeitgeist or your previous research\n  Is willing to work with a partner or partners who disagree with you\n\n\nHow\n\n\n  Let us know that you’re interested, and what topics you’re interested in working on.\n  We will ask you some questions to determine who you would best be set to work with.\n  A Contributor Coordinator will connect you with a partner or partners.\n  You’ll research the topic, read the research that your partners and the [[Research Assistant]] find, seek to understand the topic as well as possible.\n  You’ll discuss with your partners until you reach conclusions that you can agree on.\n  You’ll write those down as a paper, working with the Editor.\n\n\nFAQ\n\n\n  Who do I ask …?\n\n\nAll questions should be directed to your Adversary Coordinator.\n\n\n  How much time will this require?\n\n\nThat’s one of our questions for you! In general, we see this as a compatibility issue, not a hard requirement. Someone who puts in a few hours a month won’t work well, probably, with someone who puts in a few hours a day. But there’s no reason a few hours a month, or a burst of a few days at the end of every semester, or any other schedule can’t work, as long as the partners are aligned.\n\n",
+    "url": "/info/Contributor/"
+  },
+  
+  {
+    "title": "Introduction to Adversarial Collective",
+    "excerpt": "\n",
+    "content": "Who\n\nWe seek to discover the truth about topics where currently, different groups hold different opinions based in different evidence.\n\nWe are a volunteer group with a mission of learning about, documenting, and advocating for a position on topics of fact and policy. Often these topics are controversial, though we do not require that a topic to be controversial to consider it, only that it have significant support for multiple competing beliefs\n\nHow\n\nWe impanel a small group of passionate volunteers to work together on a topic, first researching, then reviewing and discussing the research, and finally writing a statement regarding the topic. Written statements will contain statements of values that may affect the conclusions you draw, evaluations of the evidence presented, a list of evidence that the group feels is insufficient or lacking, and conclusions that the group drew. Where necessary, there may also be statements regarding the remaining disagreement.\n\nWe are inspired by Adversarial Collaborations, but are focused on reviewing the research rather than performing new experiments, and by City Club of Portland’s Research Committees, but are working to make this available to a globally distributed audience, and focus.\n\nThe research group works together via asynchronous, and where possible, synchronous internet text, audio, and video chat, email, shared documents, etc. We do not expect participants to be colocated, and expect to work around timezones.\n\nWe welcome suggested topics from anywhere. You can suggest a topic that we should review [here].\n\nWe welcome volunteers to research topics as well. You can sign up to volunteer for our currently listed topics [here]. Our ideal volunteer is willing to put in an average of 2-3 hours a week for the duration of the topic.\n\n",
+    "url": "/info/introduction/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Document Index",
+    "excerpt": "\n",
+    "content": "No documents have been added to the project yet.\n",
+    "url": "/docs/"
+  },
+  
+  {
+    "title": "Adversarial Collective",
+    "excerpt": "\n",
+    "content": "If you’re new to contributing here, check out the Introduction to Adversarial Collective.\n\nPeople\n\nDo you want to help? We need the following people to be able to succeed.\n\n\n  Contributor (aka Adversary)\n  Contributor Coordinator\n  Research Assistant\n  Editor\n\n\nTopics and research\n\nWe want suggestions for topics and research on topics that we’re currently working on. We’re not quite set up to take them yet, but feel free to tell us about your ideas if you’d like, and we’ll work on setting up systems to receive and make use of this info.\n\nGeneral Public FAQ\n\n\n  How can I contribute?\n\n\nFirst, please drop in to our community Discord server to talk directly to us.\n\n\n  If you’d like to be a contributor, please let us know what topics you could work on. You can check our topic listing to see if there’s anything that’s interesting to you.\n  If not, please check out our topic listing and send in any research that’s relevant to any topic that you’re interested in.\n\n\n",
+    "url": "/"
+  }
+  
+]
+
