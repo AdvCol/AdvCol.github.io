@@ -51,17 +51,24 @@
   },
   
   {
-    "title": "Document Index",
-    "excerpt": "\n",
-    "content": "No documents have been added to the project yet.\n",
-    "url": "/docs/"
-  },
-  
-  {
     "title": "Adversarial Collective",
     "excerpt": "\n",
     "content": "If you’re new to contributing here, check out the Introduction to Adversarial Collective.\n\nPeople\n\nDo you want to help? We need the following people to be able to succeed.\n\n\n  Contributor (aka Adversary)\n  Contributor Coordinator\n  Research Assistant\n  Editor\n\n\nTopics and research\n\nWe want suggestions for topics and research on topics that we’re currently working on. We’re not quite set up to take them yet, but feel free to tell us about your ideas if you’d like, and we’ll work on setting up systems to receive and make use of this info.\n\nGeneral Public FAQ\n\n\n  How can I contribute?\n\n\nFirst, please drop in to our community Discord server to talk directly to us.\n\n\n  If you’d like to be a contributor, please let us know what topics you could work on. You can check our topic listing to see if there’s anything that’s interesting to you.\n  If not, please check out our topic listing and send in any research that’s relevant to any topic that you’re interested in.\n\n\n",
     "url": "/"
+  },
+  
+  {
+    "title": "Document Index",
+    "excerpt": "\n",
+    "content": "No documents have been added to the project yet.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Document Index",
+    "excerpt": "\n",
+    "content": "No documents have been added to the project yet.\n",
+    "url": "/help-out/"
   }
   
 ]

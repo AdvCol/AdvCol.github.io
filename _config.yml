@@ -96,10 +96,8 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   Home: /
   Blog: /blog/
-  GitHub: https://github.com/AdvCol
-  Documents: /docs/
-  Topics: https://airtable.com/shrjkbDuQ0V4HoMQY/tblXpuIXMphuMHHAg
-  Community Discord: https://discord.gg/jW3PSVQ
+  About Us: /about/
+  Get Involved: /help-out/
   #Elements: /elements/
   #Categories: /categories/
   #Search: /search/
