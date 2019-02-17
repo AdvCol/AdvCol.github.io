@@ -3,24 +3,24 @@ layout: page
 title: Get Involved
 ---
 
-There are many ways that you can get involved.
+We're delighted you're interested in helping out. Please make sure you've [read about us]({{ site.baseurl }}{% link about/index.md %}), and then sign up below.
 
-Before you start, we strongly encourage reading [about us]({{ site.baseurl }}{% link about/index.md %}).
+### Adversaries
 
-## Volunteer
+As an adversary, you're volunteering to assist with a research topic as part of a group of people who come from different perspectives on the topic. Ideally, you're able to put in an average of 2 hours per week for the duration of the topic. Please [sign up to volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}) for our currently listed topics.
 
-The most important way you can help is by volunteering to assist with a research topic. You can [sign up to volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}) for our currently listed topics. Our ideal volunteer is willing to put in an average of 2-3 hours a week for the duration of the topic.
+We run a rolling topic review so we can be timely for volunteers. Our next deadline is **15 March 2019**. Please sign up before then!
 
-## Topics
+### Research Experts
 
-You can check out our [list of topics](https://airtable.com/shrjkbDuQ0V4HoMQY/tblXpuIXMphuMHHAg)
+Are you an expert in [one of the topics]({{ site.baseurl }}{% link get-involved/current-topics.md %}) that we're currently interested in, or a general purpose researcher who can assist us across a variety of topics? We'd [love to hear from you.]({{ site.baseurl }}{% link get-involved/research-expert-form.md %})
 
-We welcome suggested topics from anywhere. If you have an idea for a topic that we haven't listed, go ahead and [suggest it to us]({{ site.baseurl }}{% link get-involved/topic-form.md %}).
+### Other
 
-## Research
+As an entirely volunteer project, we'd love your help or ideas. 
 
-See a topic that you know something about? We'd love to hear about [any research you think we should know about]({{ site.baseurl }}{% link get-involved/research-form.md %}).
+* [Ideas for new topics]({{ site.baseurl }}{% link get-involved/topic-form.md %})
+* [Research you've found]({{ site.baseurl }}{% link get-involved/research-form.md %}) on any of the [the topics that we're currently considering]({{ site.baseurl }}{% link get-involved/current-topics.md %})
+* Marketing, coordination, or other help. You tell us.
 
-## Coordination, marketing, etc
-
-Want to help out in other ways? We'd love to talk to you. Join the [Community Discord](https://discord.gg/jW3PSVQ) and tell us how you'd like to help.
+Please join the [Community Discord](https://discord.gg/jW3PSVQ) and let us know about other ideas you have.
