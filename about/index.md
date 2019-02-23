@@ -11,11 +11,11 @@ We are a volunteer group with a mission of learning about, documenting, and advo
 
 ## How does it work?
 
-We impanel a small group of passionate volunteers to work together on a topic, first researching, then reviewing and discussing the research, and finally writing a statement regarding the topic. Written statements will contain statements of values that may affect the conclusions you draw, evaluations of the evidence presented, a list of evidence that the group feels is insufficient or lacking, and conclusions that the group drew. Where necessary, there may also be statements regarding the remaining disagreement.
+We impanel a policy jury, a small team of passionate volunteers with sufficient ideological diversity, to work together on a topic, first researching, then reviewing and discussing the research, and finally writing a statement regarding the topic. Written statements will contain statements of values that may affect the conclusions you draw, evaluations of the evidence presented, a list of evidence that the group feels is insufficient or lacking, and conclusions that the group drew. Where necessary, there may also be statements regarding the remaining disagreement.
 
-We are inspired by [Adversarial Collaborations](https://en.wikipedia.org/wiki/Adversarial_collaboration), but are focused on reviewing the research rather than performing new experiments, and by City Club of Portland's [Research Committees](https://www.pdxcityclub.org/research/), but are working to make this available to a globally distributed audience, and a broader set of topics.
+We are inspired by [Adversarial Collaborations](https://en.wikipedia.org/wiki/Adversarial_collaboration), but are focused on reviewing the research rather than performing new experiments, and by City Club of Portland's [Research Committees](https://www.pdxcityclub.org/research/), but are working to make this available to a globally distributed audience, and a broader set of topics, and finally, by [The Cochrane Collaboration](https://us.cochrane.org) in their neutral evaluation of all of the evidence.
 
-The research group works together via asynchronous, and where possible, synchronous internet text, audio, and video chat, email, shared documents, etc. We do not expect participants to be colocated, and expect to work around timezones.
+The policy jury works together via asynchronous, and where possible, synchronous internet text, audio, and video chat, email, shared documents, etc. We do not expect participants to be colocated, and expect to work around timezones.
 
 ## Interested in helping out?
 
