@@ -1,8 +1,8 @@
-const version = '20190223224137';
+const version = '20190224020015';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/jekyll/update/2018/12/13/welcome-to-jekyll/","/404/","/info/Code-of-Conduct/","/info/Contributor-Coordinator/","/info/Contributor-Qualification/","/info/Contributor/","/info/Discussion-Techniques-and-Best-Practices/","/info/introduction/","/get-involved/current-topics/","/blog/","/","/get-involved/","/about/","/info/old_index/","/get-involved/research-expert-form/","/get-involved/research-form/","/get-involved/research-volunteer-form/","/get-involved/topic-form/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/jekyll/update/2018/12/13/welcome-to-jekyll/","/404/","/info/Code-of-Conduct/","/info/Contributor-Coordinator/","/info/Contributor-Qualification/","/info/Contributor/","/info/Discussion-Techniques-and-Best-Practices/","/info/introduction/","/get-involved/current-topics/","/blog/","/","/get-involved/","/about/","/info/old_index/","/get-involved/other-help/","/get-involved/research-expert-form/","/get-involved/research-form/","/get-involved/research-volunteer-form/","/get-involved/topic-form/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/feed.xml","/sitemap.xml","/robots.txt","/assets/logo.svg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
