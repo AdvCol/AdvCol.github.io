@@ -3,7 +3,7 @@ layout: page
 title: Adversarial Collective
 ---
 
-Adversarial Collective is a volunteer effort to discover the truth in areas where significant controversy exists.
+Adversarial Collective is a volunteer effort to pursue the truth in areas where significant controversy exists.
 
 Groups hold different opinions for a variety of reasons, including culture, history, different experiences and evidence. These disagreements aren't easy to solve, but they divide and hurt us, and with care and respect we can bridge some divides, and better understand others. 
 
