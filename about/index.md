@@ -15,6 +15,8 @@ We impanel a policy jury, a small team of passionate volunteers with sufficient 
 
 We are inspired by [Adversarial Collaborations](https://en.wikipedia.org/wiki/Adversarial_collaboration), but are focused on reviewing the research rather than performing new experiments, and by City Club of Portland's [Research Committees](https://www.pdxcityclub.org/research/), but are working to make this available to a globally distributed audience, and a broader set of topics, and finally, by [The Cochrane Collaboration](https://us.cochrane.org) in their neutral evaluation of all of the evidence.
 
+And of course, our direct inspiration is 2018's [Adversarial Collaboration Contest ([original call](https://slatestarcodex.com/2018/04/26/call-for-adversarial-collaborations/), [results](https://slatestarcodex.com/2018/09/26/adversarial-collaboration-contest-results/)), run by [Slate Star Codex](https://slatestarcodex.com). The [winner](https://slatestarcodex.com/2018/09/04/acc-entry-does-the-education-system-adequately-serve-advanced-students/) and City Club's research reports, ([example](https://www.pdxcityclub.org/wp-content/uploads/2018/08/Measure-103-Grocery-Taxes-FINAL.pdf)) serve as good examples of the work we're aiming to create.
+
 The policy jury works together via asynchronous, and where possible, synchronous internet text, audio, and video chat, email, shared documents, etc. We do not expect participants to be colocated, and expect to work around timezones.
 
 ## Interested in helping out?
