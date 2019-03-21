@@ -9,7 +9,7 @@ We're delighted you're interested in helping out. Please make sure you've [read 
 
 As an adversary, you're volunteering to assist with a research topic as part of a group of people who come from different perspectives on the topic. Ideally, you're able to put in an average of 2 hours per week for the duration of the topic. Please [sign up to volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}) for our currently listed topics.
 
-In an effort to not keep our volunteers waiting, we review topics and volunteers on a rolling basis, with the aim to impanel a new research jury as soon as we have the right members. Our next review cycle ends **30 March 2019**. Please sign up before then!
+In an effort to not keep our volunteers waiting, we review topics and volunteers on a rolling basis, with the aim to impanel a new research jury as soon as we have the right members. Our next review cycle ends **30 April 2019**. Please sign up before then!
 
 ### Research Experts
 
