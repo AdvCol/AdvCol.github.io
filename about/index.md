@@ -7,7 +7,7 @@ permalink: /about/
 
 We seek to discover the truth about topics where currently, different groups hold different opinions based in different evidence.
 
-We are a volunteer group with a mission of learning about, documenting, and advocating for a position on topics of fact and policy. Often these topics are controversial, though we do not require that a topic to be controversial to consider it, only that it have significant support for multiple competing beliefs 
+We are a volunteer group with a mission of learning about, documenting, and advocating for a position on topics of fact and policy. Often these topics are controversial, though we do not require that a topic be controversial to consider it, only that it have significant support for multiple competing beliefs 
 
 ## How does it work?
 
