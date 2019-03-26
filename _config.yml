@@ -75,7 +75,7 @@ remote_theme: daviddarnes/alembic
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Adversarial Collective Project" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logo.png" # Site logo, also used in jekyll-seo-tag
 description: >-
     Welcome to the Adversarial Collective project!
     Here, we help you to find collaborators you disagree with so you can write
