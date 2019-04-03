@@ -1,0 +1,23 @@
+---
+title: false
+styles: true
+---
+
+@import "alembic";
+
+.cta {
+	padding: .2em .8em;
+	border-radius: 1em;
+	background-color: #5CA2A6;
+	color: white;
+	text-shadow: none !important;
+
+}
+
+a {
+	color: blue;
+}
+
+.item.item--current a {
+	color: black;
+}
