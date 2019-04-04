@@ -21,7 +21,8 @@ a.cta {
 }
 
 a.cta:hover {
-	color: #dddddd !important;
+	background-color: #91B7BA;
+	color: white !important;
 	background-image: none !important;
 }
 
@@ -31,11 +32,11 @@ body .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h
 }
 
 a {
-	color: #5CA2A6;
+	color: #40979c;
 }
 
 a:hover {
-	color: #5ca65f !important;
+	color: #91B7BA !important;
 }
 
 .item.item--current a {
