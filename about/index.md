@@ -21,9 +21,10 @@ The research jury works together via asynchronous, and where possible, synchrono
 
 ## Interested in helping out?
 
-The most important way you can help is by volunteering to assist with a research topic. You can [sign up to volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}) for our currently listed topics. Our ideal volunteer is willing to put in an average of 2-3 hours a week for the duration of the topic.
+The most important way you can help is by volunteering to assist with a research topic. Our ideal volunteer is willing to put in an average of 2-3 hours a week for the duration of the topic. If that type of role isn't in the cards for you, check out other ways to get involved.
 
-Either way, please check out [how to get involved]({{ site.baseurl }}{% link get-involved/index.md %})
+[Get Involved]({{ site.baseurl }}{% link get-involved/index.md %}){:class="cta"}
+<span class="u-float-right">[volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}){:class="cta"}</span>
 
 ## Contact Us
 

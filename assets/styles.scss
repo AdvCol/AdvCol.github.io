@@ -5,19 +5,43 @@ styles: true
 
 @import "alembic";
 
-.cta {
+a.cta {
 	padding: .2em .8em;
 	border-radius: 1em;
 	background-color: #5CA2A6;
 	color: white;
 	text-shadow: none !important;
+	text-decoration: none;
+	background-image: none !important;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: .95em;
+    letter-spacing: .07em;
+}
 
+a.cta:hover {
+	color: #dddddd !important;
+	background-image: none !important;
+}
+
+body .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
 }
 
 a {
-	color: blue;
+	color: #5CA2A6;
+}
+
+a:hover {
+	color: #5ca65f !important;
 }
 
 .item.item--current a {
-	color: black;
+	color: #384743;
+}
+
+span.u-float-right {
+	float: right;
 }

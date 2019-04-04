@@ -8,9 +8,8 @@ Groups hold different opinions for a variety of reasons, including culture, hist
 
 Adversarial Collective builds policy juries, to bring together people with largely different views on a subject and encourage and enable them to investigate, evaluate, and document the current state of the topic, whenever possible searching for respect, agreement and future avenues of research. 
 
-Interested in advocating a position? [Sign up]({{ site.baseurl }}{% link get-involved/index.md %}){:class="cta"}
-
-Or [learn more about us]({{ site.baseurl }}{% link about/index.md %})
+[learn more]({{ site.baseurl }}{% link about/index.md %}){:class="cta"}
+<span class="u-float-right">[volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}){:class="cta"}</span>
 
 
 
