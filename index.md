@@ -11,4 +11,4 @@ Please check the links below if you're interested in taking part in a collaborat
 [learn more]({{ site.baseurl }}{% link about/index.md %}){:class="cta"}
 <span class="u-float-right">[volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}){:class="cta"}</span>
 
-<p id="definition"><b>1</b> An adversarial collaboration brings people who disagree together to review the research, discuss their different values and beliefs, and work together to resolve as much as can be resolved and write a paper summarizing their agreement and remaining disagreement on the state of the topic.</p>
+<p id="definition"><b>1</b> An adversarial collaboration brings people who disagree together to review the research, discuss their different values and beliefs with an eye toward resolving as much as can be resolved. Together, they write a paper summarizing their agreement and remaining disagreement on the state of the topic.</p>
