@@ -24,3 +24,7 @@ As an entirely volunteer project, we'd love your help or ideas.
 * [Ideas for new topics]({{ site.baseurl }}{% link get-involved/topic-form.md %})
 * [Research you've found]({{ site.baseurl }}{% link get-involved/research-form.md %}) on any of the [the topics that we're currently considering]({{ site.baseurl }}{% link get-involved/current-topics.md %})
 * Marketing, coordination, or other help. [You tell us]({{ site.baseurl }}{%link get-involved/other-help.md %}).
+
+## Contact Us
+
+You can talk to us, or try to self-organize adversarial collaborations on other topics, through our [Community Discord.](https://discord.gg/jW3PSVQ)
