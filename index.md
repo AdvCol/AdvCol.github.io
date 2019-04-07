@@ -2,11 +2,11 @@
 layout: page
 ---
 
-Adversarial Collective is a volunteer effort to pursue the truth in areas where significant controversy exists.
+Adversarial Collective is a volunteer effort to pursue the truth where major controversy exists. We aim to do this by arranging adversarial collaborations. We help people who disagree with each other on a subject find each other. Those people collaborate to summarize the research surrounding the topic. Each group tries to come to an agreement about as much of their subject as they can.
 
-Groups hold different opinions for a variety of reasons, including culture, history, different experiences and evidence. These disagreements aren't easy to solve, but they divide and hurt us, and with care and respect we can bridge some divides, and better understand others. 
+Groups hold different opinions for a variety of reasons. People from different backgrounds often have different reasons to believe what they believe. These disagreements aren't easy to solve, but they divide and hurt us. With care and respect we can bridge some of these divides and better understand each other.
 
-Adversarial Collective builds policy juries, to bring together people with largely different views on a subject and encourage and enable them to investigate, evaluate, and document the current state of the topic, whenever possible searching for respect, agreement and future avenues of research. 
+Please check the links below if you're interested in taking part in a collaboration, suggesting a topic for a collaboration, or volunteering to help keep the project running smoothly.
 
 [learn more]({{ site.baseurl }}{% link about/index.md %}){:class="cta"}
 <span class="u-float-right">[volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}){:class="cta"}</span>
