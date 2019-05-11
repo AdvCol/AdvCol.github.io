@@ -11,8 +11,6 @@ As an adversary, you're volunteering to assist with a research topic as part of 
 
 [volunteer]({{ site.baseurl }}{% link get-involved/research-volunteer-form.md %}){:class="cta"} 
 
-In an effort to not keep our volunteers waiting, we review topics and volunteers on a rolling basis, with the aim to impanel a new research jury as soon as we have the right members. Our next review cycle ends **30 April 2019**. Please sign up before then!
-
 ### Research Experts
 
 Are you an expert in [one of the topics]({{ site.baseurl }}{% link get-involved/current-topics.md %}) that we're currently interested in, or a general purpose researcher who can assist us across a variety of topics? We'd [love to hear from you.]({{ site.baseurl }}{% link get-involved/research-expert-form.md %})
